@@ -46,4 +46,4 @@
 
 #### 2. Evaluate how much competitors charge in Urban cities.  Experiment with making small changes in fare with the strategy either charging less but gaining bigger       market share or mainatining the current market share but charging slightly higher fare.
 
-#### 3. Launch special promotions or fare discount during off peak months (By looking at the Total fare by City Type Chart) to consistently maintain consistently           higher weekly total fare every month.
+#### 3. Launch special promotions or fare discount during off peak months (By looking at the Total fare by City Type Chart) to consistently maintain higher weekly total fare every month.
